@@ -6,7 +6,7 @@ class PokeImage extends React.Component {
   render() {
     return (
       <div className="image">
-        <img src="" />
+        <img src="" alt="imagen" />
       </div>
     );
   }
